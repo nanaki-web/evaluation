@@ -1,0 +1,27 @@
+premiere sauvegarde
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Contact.html
+#	new file:   exercice1.html
+#	new file:   exercice1.js
+#	new file:   exercice2.html
+#	new file:   exercice2.js
+#	new file:   exercice3.html
+#	new file:   exercice3.js
+#	new file:   exercice4.html
+#	new file:   exercice4.js
+#	new file:   exercice5.js
+#	new file:   img/11.jpg
+#	new file:   img/12.jpg
+#	new file:   img/13.jpg
+#	new file:   img/7.jpg
+#	new file:   img/8.jpg
+#	new file:   img/jarditou_logo.jpg
+#	new file:   img/promotion.jpg
+#
